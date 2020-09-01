@@ -10,3 +10,5 @@ update the source api in frontity.settings.js
   "api": "WP-json API here"
 }
 
+can use the test api provided by frontity, if don't have one.
+
